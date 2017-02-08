@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/poc-spring-session.iml" filepath="$PROJECT_DIR$/poc-spring-session.iml" />
+      <module fileurl="file://$PROJECT_DIR$/statefull-proxy-web-app-with-spring-session/statefull-proxy-web-app-with-spring-session.iml" filepath="$PROJECT_DIR$/statefull-proxy-web-app-with-spring-session/statefull-proxy-web-app-with-spring-session.iml" />
+      <module fileurl="file://$PROJECT_DIR$/statefull-web-app/statefull-proxy-web-app.iml" filepath="$PROJECT_DIR$/statefull-web-app/statefull-proxy-web-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/statefull-web-app-with-spring-session/statefull-web-app-with-spring-session.iml" filepath="$PROJECT_DIR$/statefull-web-app-with-spring-session/statefull-web-app-with-spring-session.iml" />
+    </modules>
+  </component>
+</project>

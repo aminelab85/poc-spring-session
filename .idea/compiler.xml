@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="statefull-proxy-web-app" />
+        <module name="statefull-proxy-web-app-with-spring-session" />
+        <module name="statefull-web-app" />
+        <module name="statefull-web-app-with-spring-session" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="poc-spring-session" target="1.8" />
+      <module name="statefull-proxy-web-app" target="1.8" />
+      <module name="statefull-proxy-web-app-with-spring-session" target="1.8" />
+      <module name="statefull-web-app" target="1.8" />
+      <module name="statefull-web-app-with-spring-session" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
